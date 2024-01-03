@@ -111,7 +111,8 @@ sudo chmod o+t /home/engineers/
 4. Provide a report from the Lynis output on what can be done to harden the system.
     - Screenshot of report output: 
 
-![04a](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/cd542acd-1161-4dfe-9ecc-0a83a2a4d294)
+![04a](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/d9a7eab4-5247-4780-bd51-3d56b5dc4f01)
+
 
 ### Bonus
 1. Command to install chkrootkit: sudo apt -y install chkrootkit
@@ -122,9 +123,10 @@ sudo chmod o+t /home/engineers/
 
 4. Provide a report from the chrootkit output on what can be done to harden the system.
 
-![04b](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/c878c787-50be-40e6-8fa8-22bba9817a19)
+
 
    - Screenshot of end of sample output:
+![04b](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/0ad2deab-9b92-4223-bb64-468b8bcb6254)
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
