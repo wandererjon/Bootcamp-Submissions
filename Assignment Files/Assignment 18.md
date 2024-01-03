@@ -78,7 +78,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 Submit a screen shot of your report and the answer to the questions above.
  
 
-
+![18a](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/89481773-d1ce-4acf-8005-2cb952629271)
 
 
 ### Step 2: Are We Vulnerable? 
@@ -109,10 +109,8 @@ Submit a screen shot of your report and the answer to the questions above.
 
 Submit a screenshot of your report and a screenshot of proof that the alert has been created.
 
-
-
-
-
+![18b](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/d65ae840-9d86-4b15-a3c3-d102b0d9df65)
+![18c](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/d08b5964-497d-4428-a671-caed9bbe8316)
 
 
 
@@ -150,8 +148,7 @@ With the threshold of 50 log in attempts per user, the system will alert when an
 4. Design an alert to check the threshold every hour and email the SOC team at SOC@vandalay.com if triggered. 
 
 
-
-
+![18d](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/f0286231-5209-4033-822f-1394fcdc1d49)
 
 
 
