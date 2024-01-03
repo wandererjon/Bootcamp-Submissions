@@ -25,7 +25,13 @@ Severity:
 High severity, gained read/write access with this vulnerability.
 Proof of Concept:
 
+![17a](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/2e4ba281-3507-4cbc-a423-0c588f240183)
 
+![17b](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/5e127231-cf5b-4d0d-8b40-14b669564ef1)
+
+![17c](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/6791e95e-276e-445a-bfa9-0d925684da71)
+
+![17d](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/b6a7857a-bad5-4e88-b630-30c11119e149)
 
 
 Recommendations
