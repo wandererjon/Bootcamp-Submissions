@@ -250,6 +250,7 @@ In this activity, you will assume the role of a pen tester hired by a bank to te
 
 Please include a screenshot here of the hidden JavaScript:
 
+![15a](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/beda313b-d022-4ebb-a745-f1844d5bf015)
 
 
 
@@ -258,6 +259,7 @@ Please include a screenshot here of the hidden JavaScript:
 
 Please include a screenshot here of all the credit card numbers from the database: 
 
+![15b](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/dec08d75-9918-4ebe-9516-9a962d0f0bf7)
 
 
 
@@ -266,7 +268,8 @@ Please include a screenshot here of all the credit card numbers from the databas
 
 Please include a screenshot of the defaced website:
 
- 
+ ![15c](https://github.com/wandererjon/Bootcamp-Submissions/assets/69092248/08b34bee-2612-4bc9-a638-799a046364d7)
+
 
 
 ---
